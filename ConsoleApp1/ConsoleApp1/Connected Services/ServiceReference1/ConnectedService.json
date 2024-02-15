@@ -1,0 +1,19 @@
+{
+  "ExtendedData": {
+    "inputs": [
+      "http://desktop-hu97nsf/reportserver/ReportService2010.asmx"
+    ],
+    "collectionTypes": [
+      "System.Array",
+      "System.Collections.Generic.Dictionary`2"
+    ],
+    "namespaceMappings": [
+      "*, ServiceReference1"
+    ],
+    "references": [
+      "Newtonsoft.Json, {Newtonsoft.Json, 13.0.3}"
+    ],
+    "targetFramework": "net8.0",
+    "typeReuseMode": "All"
+  }
+}
